@@ -1,0 +1,8 @@
+*.swp
+*.swo
+*.pyc
+a.out
+*.exe
+*.a
+*.o
+*.x
